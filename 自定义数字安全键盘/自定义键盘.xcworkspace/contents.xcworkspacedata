@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:/Users/lecochao/&#x5de5;&#x4f5c;/&#x5c01;&#x88c5;/&#x81ea;&#x5b9a;&#x4e49;&#x6570;&#x5b57;&#x5b89;&#x5168;&#x952e;&#x76d8;/keypadDome.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:keypad/keypad.xcodeproj">
+   </FileRef>
+</Workspace>
